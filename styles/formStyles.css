@@ -1,0 +1,48 @@
+.form-control {
+	border: none;
+	border-radius: 0;
+	border-bottom: 0.5px solid #999;
+}
+
+.form-control::placeholder {
+	color: #999;
+}
+
+.form-card {
+	border-radius: 1em;
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.form-label {
+	display: none;
+}
+
+body {
+	background-color: #f2ac57;
+}
+
+p {
+	opacity: 0.5;
+}
+
+.link {
+	font-size: 13px;
+}
+
+.link a {
+	font-size: 15px;
+}
+
+.signIn_aside {
+	background-color: #398cbf;
+	border-radius: 1em;
+}
+
+.register {
+	border-radius: 1em;
+	background-color: rgba(255, 255, 255, 0.2);
+}
+
+.btn {
+	background-color: #398cbf;
+}
