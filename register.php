@@ -21,7 +21,7 @@ include 'registerValidation.php';
         <div class="col-4 h-100 p-5 signIn_aside ms-2 text-white">
           <div class="row h-100 d-flex flex-column">
             <div class="d-flex flex-column justify-content-center flex-grow-1">
-              <h1>Register</h1>
+              <h1>Sign Up</h1>
               <p>Enter your details below to create an account</p>
             </div>
             <div class="mt-auto py-3 ps-4 align-self-center text-white register">
